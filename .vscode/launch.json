@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "clustertest.py",
+            // "program": "main.py",
+            // "program": "./envs/upper_bound.py",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        }
+    ]
+}
